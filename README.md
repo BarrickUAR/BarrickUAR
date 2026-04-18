@@ -56,9 +56,10 @@ const berk = {
   role: "Full-Stack Developer",
   focus: ["Next.js", "React Native", "Technical SEO"],
   stack: {
-    frontend: ["Next.js", "React", "React Native", "TypeScript", "Tailwind"],
-    backend:  ["Node.js", ".NET Core", "C#", "MSSQL"],
+    frontend: ["Next.js", "React", "React Native", "TypeScript", "Tailwind", "Bootstrap", "jQuery"],
+    backend:  ["Node.js", ".NET Core", "C#", "Python", "MSSQL", "MongoDB"],
     seo:      ["Core Web Vitals", "Schema.org", "GA4", "GSC"],
+    other:    ["Unity Game Engine", "Unit Testing"],
   },
   currentlyBuilding: "DevPixel — B2B/B2C web & e-commerce platforms",
   openTo: ["Freelance projects", "Full-time roles", "Long-term contracts"],
@@ -79,7 +80,7 @@ const berk = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,cs,dotnet,python,mssql,html,css,git,github,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,nodejs,cs,dotnet,python,mssql,mongodb,jquery,unity,jest,html,css,git,github,vscode,figma&perline=7" />
 
 </div>
 
@@ -94,6 +95,8 @@ const berk = {
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
@@ -102,13 +105,25 @@ const berk = {
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 ### SEO & Analytics
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" />
 <img src="https://img.shields.io/badge/Schema.org-0D6EFD?style=flat-square&logo=schemadotorg&logoColor=white" />
 <img src="https://img.shields.io/badge/PageSpeed-0F9D58?style=flat-square&logo=pagespeedinsights&logoColor=white" />
+<img src="https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+### Game Development & Testing
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Unit_Testing-C21325?style=flat-square&logo=jest&logoColor=white" />
+
+### Languages
+<img src="https://img.shields.io/badge/English-4285F4?style=flat-square&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/Turkish-E30A17?style=flat-square&logo=googletranslate&logoColor=white" />
 
 </div>
 
