@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Berk%20U%C3%A7ar&fontSize=65&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Next.js%20%26%20React%20Native%20%C2%B7%20SEO%20Expert&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff" width="100%" />
-</div>
+
 
 <div align="center">
   
